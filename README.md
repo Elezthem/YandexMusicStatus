@@ -1,0 +1,2 @@
+# YandexMusicStatus
+Discord status YM
